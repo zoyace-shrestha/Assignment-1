@@ -1,16 +1,3 @@
-/**
- * This is a simple program involving
- * the use of shapes to create a drawing 
- * of a building with details in  the background.
- * 
- * @author Zoyace Shrestha
- * CS120 Section 01
- * Fall 2019
- * 
- * Programming Assignment 1
- * September 13, 2019
- */
-
 import java.awt.Color;
 
 public class Building {
